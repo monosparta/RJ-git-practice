@@ -8,4 +8,5 @@
 ![Push](Push.png)
 ## 做完Push之後就能在GitHub上看到自己的檔案
 ## Pull用來將遠端儲存庫的進度同步到本地儲存庫
-    
+![Pull](Pull.png)
+## 這樣就完成同步囉
