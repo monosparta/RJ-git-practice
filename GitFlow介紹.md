@@ -5,7 +5,7 @@
 # Git Flow 的建議
 根據 Git Flow 的建議，主要的分支有 `master`、`develop`、`hotfix`、`release`以及 `feature` 這五種分支，各種分支負責不同的功能。其中 `Master` 以及 `Develop` 這兩個分支又被稱做長期分支，因為他們會一直存活在整個 Git Flow 裡，而其它的分支大多會因任務結束而被刪除。
 
-![GitFlow](GitFlow.png)
+![GitFlow](pic/GitFlow.png)
 ## `Master` 分支
 主要是用來放穩定、隨時可上線的版本。這個分支的來源只能從別的分支合併過來，開發者不會直接 Commit 到這個分支。因為是穩定版本，所以通常也會在這個分支上的 Commit 上打上版本號標籤。
 
